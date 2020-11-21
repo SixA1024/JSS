@@ -2,6 +2,5 @@ spring:
   profiles:
     active: dev
 ---
-spring:
-  application:
-    name: spring-application-dev
+config:
+  info: "version=1"
